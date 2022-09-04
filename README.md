@@ -1,3 +1,3 @@
 # DigifistCase
  
-You can log in with this link >
+You can visit with this link > https://bubblegunn.github.io/DigifistCase/
